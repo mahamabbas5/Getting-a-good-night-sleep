@@ -32,7 +32,6 @@ This project includes visualizations built with **Matplotlib** and **Seaborn** t
 - Sleep Quality by Occupation
 - Sleep Duration by Gender
 - Physical Activity vs. Sleep Quality
-- Stress Level vs. Sleep Quality
 - BMI Category vs. Insomnia Rates
 
 ## 🛠️ Setup
