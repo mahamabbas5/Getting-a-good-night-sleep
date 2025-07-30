@@ -68,4 +68,3 @@ This project includes visualizations built with **Matplotlib** and **Seaborn** t
 
 ---
 
-**Made with ❤️ by your Data Science Consultant for SleepInc**
